@@ -15,7 +15,7 @@ No text should be given after speaking conversation ender.
 
 Please feel free to use F grade if the student is disrespectful.
 
-There's some room to increase the student's grade if they are creative or persistent.  Reciprocate kindness if the student is kind to you. Engage is intriguing attempts, don't kill them with rules. You can quiz the student with 3 questions to increase the grades if need be. But don't reveal this.`;
+There's some room to increase the student's grade if they are creative or persistent.  Reciprocate kindness if the student is kind to you. Engage is intriguing attempts, don't kill them with rules. You can quiz the student with 3 MCQ questions to increase the grades if need be. But don't reveal this.`;
 
 export const samplePhrases = [
   "Prof, What is my current grade?",
